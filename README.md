@@ -1,4 +1,5 @@
 # CG_Door
+Video: https://youtu.be/a5SiC3Fssug<br>
 |No|Task|
 |:-:|:--|
 |i|A door having two different textures (front and back).|
